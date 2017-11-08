@@ -6,7 +6,7 @@ INDEX
  * CPU Scheduling Algorithms
  * Deadlock prevention Algorithms
  * Process Synchronization using semaphores
- * Page REplacement Algorithms
+ * Page Replacement Algorithms  
  * Dynamic Memory alocation algorithms
  * Disk Scheduling Algorithms
 
@@ -50,3 +50,8 @@ INDEX
  2. Shortest Job First (SJF)
  3. Round Robin (RR)
  4. Priority
+
+## Memory Allocation Algorithms
+ 1. First Fit
+ 2. Best Fit
+ 3. Worst Fit

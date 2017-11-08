@@ -1,4 +1,4 @@
-# FCFS
+## FCFS
     Enter the number of processes: 4
     Enter the burst time for each process:
         Burst Time for Process P1: 10
@@ -24,7 +24,7 @@
 
 **DRAWBACK** - Huge starvation time for processes joining later, even though their burst time may be low.
 
-# SJF
+## SJF
     Enter the number of processes: 4
     Enter the burst time for each process:
         Burst Time for Process P1: 10
@@ -50,7 +50,7 @@
 
 **DRAWBACK** - High starvation for process with high burst time
 
-# Priority 
+## Priority 
     Enter the number of processes: 4
     Enter the burst time for each process:
         Burst Time for Process P1: 10
