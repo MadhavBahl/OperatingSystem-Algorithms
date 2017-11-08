@@ -27,10 +27,10 @@
 # SJF
     Enter the number of processes: 4
     Enter the burst time for each process:
-    Burst Time for Process P1: 10
-    Burst Time for Process P2: 5
-    Burst Time for Process P3: 8
-    Burst Time for Process P4: 3
+        Burst Time for Process P1: 10
+        Burst Time for Process P2: 5
+        Burst Time for Process P3: 8
+        Burst Time for Process P4: 3
     WAITING TIME
     ------------
     P3 --> 0
@@ -48,5 +48,35 @@
 
 ![image](https://user-images.githubusercontent.com/26179770/32564198-7f757c98-c4d9-11e7-9657-f08721702bd5.png)
 
-**Drawback** - High starvation for process with high burst time
+**DRAWBACK** - High starvation for process with high burst time
 
+# Priority 
+    Enter the number of processes: 4
+    Enter the burst time for each process:
+        Burst Time for Process P1: 10
+        Burst Time for Process P2: 5
+        Burst Time for Process P3: 8
+        Burst Time for Process P4: 3
+    Enter the Priority for each process:
+        Priority for Process P1: 2
+        Priority for Process P2: 1
+        Priority for Process P3: 4
+        Priority for Process P4: 3
+    WAITING TIME
+    ------------
+    P1 --> 0
+    P0 --> 5
+    P3 --> 15
+    P2 --> 18
+    TURN AROUND TIME
+    ----------------
+    P1 --> 5
+    P0 --> 15
+    P3 --> 18
+    P2 --> 26
+    The Average Waiting Time Is: 9.500000
+    The Average Turnaround Time Is: 16.000000
+
+![image](https://user-images.githubusercontent.com/26179770/32565369-e0c3425c-c4dc-11e7-8890-6728241eecfa.png)
+
+**DRAWBACK** - Starvation of process with low priority

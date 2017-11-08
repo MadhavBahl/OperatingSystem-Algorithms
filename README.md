@@ -1,5 +1,5 @@
-# INDEX
--------
+INDEX
+-----
  * Basic UNIX Commands
  * Shell Programming
  * Child Processes
