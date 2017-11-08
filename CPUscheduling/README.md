@@ -80,3 +80,24 @@
 ![image](https://user-images.githubusercontent.com/26179770/32565369-e0c3425c-c4dc-11e7-8890-6728241eecfa.png)
 
 **DRAWBACK** - Starvation of process with low priority
+
+# Round Robin
+    Enter Total Process:     4
+    Enter Arrival Time and Burst Time for Process Process Number 1 :0 10
+    Enter Arrival Time and Burst Time for Process Process Number 2 :0 5
+    Enter Arrival Time and Burst Time for Process Process Number 3 :0 8
+    Enter Arrival Time and Burst Time for Process Process Number 4 :0 3
+    Enter Time Quantum:     2
+
+
+    Process |Turnaround Time|Waiting Time
+
+    P[4]    |       15      |       12
+    P[2]    |       18      |       13
+    P[3]    |       24      |       16
+    P[1]    |       26      |       16
+
+    Average Waiting Time= 14.250000
+    Avg Turnaround Time = 20.750000
+
+**DRAWBACK** - Increased waiting time for each process, too many task transitions

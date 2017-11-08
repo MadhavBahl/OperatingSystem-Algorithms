@@ -11,7 +11,33 @@ INDEX
  * Disk Scheduling Algorithms
 
 ## Basic UNIX Commands
- **TO BE UPDATED**
+ * w
+ * who
+ * uptime
+ * pwd
+ * ls
+ * mkdir
+ * cd
+ * vi
+ * head
+ * rmdir
+ * df
+ * du
+ * top
+ * cp
+ * who -Hu-
+ * cal
+ * tty
+ * cal {year}
+ * wc
+ * bc
+ * tail
+ * man
+ * passwd
+ * xcalc
+ * history
+ * logout
+ * exit
 
 ## Shell Programming
  **Basic Syntax to be updated**
