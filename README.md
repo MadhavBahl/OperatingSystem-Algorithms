@@ -4,6 +4,7 @@ INDEX
  * Shell Programming
  * Child Processes
  * CPU Scheduling Algorithms
+ * Bankers Algorithm
  * Deadlock prevention Algorithms
  * Process Synchronization using semaphores
  * Page Replacement Algorithms  
@@ -69,15 +70,36 @@ INDEX
    esac
 
 ## Child Processes
- **TO BE UPDATED**
+ * Child process using fork()
+ * Orphan process
+ * Zombie process
 
 ## CPU Scheduling Algorithms
  1. First Come First Serve (FCFS)
  2. Shortest Job First (SJF)
  3. Round Robin (RR)
  4. Priority
+ 
+## Process Synchronization
+ 1. Producer Consumer Problem
+ 2. Readers writers problem
+ 3. Dining philosophers problem
+ 4. cigarette smokers problem
 
 ## Memory Allocation Algorithms
  1. First Fit
  2. Best Fit
  3. Worst Fit
+
+## Page Replacement Algorithms
+ 1. FIFO
+ 2. Optimal
+ 3. LRU
+
+## Disk Scheduling Algorithms
+ 1. FCFS
+ 2. SSTF
+ 3. SCAN
+ 4. C-SCAN
+ 5. LOOK
+ 6. C-LOOK
