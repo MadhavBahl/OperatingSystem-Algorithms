@@ -4,8 +4,7 @@ INDEX
  * Shell Programming
  * Child Processes
  * CPU Scheduling Algorithms
- * Bankers Algorithm
- * Deadlock prevention Algorithms
+ * Bankers Algorithm - Deadlock prevention Algorithm
  * Process Synchronization using semaphores
  * Page Replacement Algorithms  
  * Dynamic Memory alocation algorithms
