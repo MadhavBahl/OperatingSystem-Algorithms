@@ -40,7 +40,33 @@ INDEX
  * exit
 
 ## Shell Programming
- **Basic Syntax to be updated**
+ * echo "..."
+ * read <VAR_NAME>
+ * read -p "" <VAR_NAME>
+ * `expr 10 + 20`
+ * $(( a+b ))
+ * [ a == b ]
+ * if [ ... ];
+   then
+    ...
+   else
+    ...
+   fi
+ * for((i=0;i<=n;i++))
+   {
+       ...
+   }
+ * case "ch"
+     "a")
+        ...
+     ;;
+     "b")
+        ...
+     ;;
+     *)
+        ...
+     ;;
+   esac
 
 ## Child Processes
  **TO BE UPDATED**
