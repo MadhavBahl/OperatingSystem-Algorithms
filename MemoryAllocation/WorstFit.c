@@ -38,7 +38,7 @@ int main() {
 				avail[j]=blockSize[j]-jobSize[i];
 			}
 		}
-		max=0;
+		int max=0;
 		for(j=0;j<nb;j++) {
 			if(avail[max]<avail[j]) {
 				max=j;
